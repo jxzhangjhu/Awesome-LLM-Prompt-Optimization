@@ -9,6 +9,7 @@
 
 - [Papers](#papers)
   - [LLM Optimization](#llm-optimization)
+  - [Fine-tune Methods](#fine-tune-methods)
   - [Ensemble Methods](#ensemble-methods)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Gradient-free Methods](#gradient-free-methods)
@@ -16,16 +17,46 @@
 
 ## LLM Optimization
 
+**PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization** \
+*Xinyuan Wang, Chenxi Li, Zhen Wang, Fan Bai, Haotian Luo, Jiayou Zhang, Nebojsa Jojic, Eric P. Xing, Zhiting Hu* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2310.16427)]
+25 Oct 2023 
+
+
+**Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution** \ 
+*Chrisantha Fernando, Dylan Banarse, Henryk Michalewski, Simon Osindero, Tim Rocktäschel* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2309.16797)]
+28 Sep 2023 
+
+**Connecting large language models with evolutionary algorithms yields powerful prompt optimizers** \
+*Qingyan Guo, Rui Wang, Junliang Guo, Bei Li, Kaitao Song, Xu Tan, Guoqing Liu, Jiang Bian, Yujiu Yang* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2309.08532)]
+15 Sep 2023 
+
 **Large Language Models as Optimizers** \
 *Chengrun Yang, Xuezhi Wang, Yifeng Lu, Hanxiao Liu, Quoc V. Le, Denny Zhou, Xinyun Chen* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2309.03409)] \
-Sep 7 2023 
+7 Sep 2023 
 
 
-**Large Language Models Are Human-Level Prompt Engineers** \
+**Large Language Models Are Human-Level Prompt Engineers (APE)** \
 *Yongchao Zhou, Andrei Ioan Muresanu, Ziwen Han, Keiran Paster, Silviu Pitis, Harris Chan, Jimmy Ba* \
-ICLR 2023. [[Paper](https://arxiv.org/abs/2211.01910)] [[Github](https://github.com/keirp/automatic_prompt_engineer)] \
+ICLR 2023. [[Paper](https://arxiv.org/abs/2211.01910)][[Github](https://github.com/keirp/automatic_prompt_engineer)] \
 3 Nov 2022 
+
+**Automatic Prompt Optimization with "Gradient Descent" and Beam Search (APO)** \
+*Reid Pryzant, Dan Iter, Jerry Li, Yin Tat Lee, Chenguang Zhu, Michael Zeng* \
+EMNLP 2023. [[Paper](https://arxiv.org/abs/2305.03495)][[Github](https://github.com/microsoft/lmops)]
+
+
+## Fine-tuning Methods
+
+**Tuna: Instruction Tuning using Feedback from Large Language Models** \
+*Haoran Li, Yiran Liu, Xingxing Zhang, Wei Lu, Furu Wei* \
+EMNLP 2023. [[Paper](https://arxiv.org/abs/2310.13385)][[Github](https://github.com/microsoft/lmops)]
+
+
+
 
 
 
@@ -35,6 +66,8 @@ ICLR 2023. [[Paper](https://arxiv.org/abs/2211.01910)] [[Github](https://github.
 *Bairu Hou, Joe O’Connor, Jacob Andreas, Shiyu Chang, Yang Zhang* \
 ICML 2023. [[Paper](https://proceedings.mlr.press/v202/hou23b.html)][[Github](https://github.com/UCSB-NLP-Chang/PromptBoosting)] \
 23 Jan 2023 
+
+
 
 ## Reinforcement Learning
 
