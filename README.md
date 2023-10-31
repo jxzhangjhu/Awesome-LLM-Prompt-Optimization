@@ -23,6 +23,8 @@ We strongly encourage the researchers that want to promote their fantastic work 
   - [Ensemble Methods](#ensemble-methods)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Gradient-free Methods](#gradient-free-methods)
+  - [In-Context Learning](#in-context-learning)
+
 
 
 --- 
@@ -179,33 +181,32 @@ EMNLP 2022. [[Paper](https://aclanthology.org/2022.emnlp-main.259/)] [[Github](h
 7 Dec 2022 
 
 
-
-
-
-<!-- **Automatic Chain of Thought Prompting in Large Language Models** \
-*Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola*\
-ICLR 2023. [[Paper](https://arxiv.org/abs/2210.03493)][[Github](https://github.com/amazon-science/auto-cot)]\
-7 Oct 2022
+## In-Context Learning 
 
 **Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data** \
 *KaShun Shum, Shizhe Diao, Tong Zhang*\
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12822)][[Github](https://github.com/shizhediao/automate-cot)]\
 24 Feb 2023 
 
-
-**Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity** \
-*Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, Pontus Stenetorp* \
-ACL 2022. [[Paper](https://arxiv.org/abs/2104.08786)] 
+**Automatic Chain of Thought Prompting in Large Language Models** \
+*Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola*\
+ICLR 2023. [[Paper](https://arxiv.org/abs/2210.03493)][[Github](https://github.com/amazon-science/auto-cot)]\
+7 Oct 2022
 
 **Active Example Selection for In-Context Learning** \
 *Yiming Zhang, Shi Feng, Chenhao Tan* \
 EMNLP 2022. [[Paper](https://arxiv.org/abs/2211.04486)][[Github](https://github.com/ChicagoHAI/active-example-selection)] \
-8 Nov 2022  -->
+8 Nov 2022 
 
 **Selective Annotation Makes Language Models Better Few-Shot Learners** \
 *Hongjin Su, Jungo Kasai, Chen Henry Wu, Weijia Shi, Tianlu Wang, Jiayi Xin, Rui Zhang, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu* \
 ICLR 2023. [[Paper](https://arxiv.org/abs/2209.01975)][[Github](https://github.com/HKUNLP/icl-selective-annotation)]\
 5 Sep 2022 
+
+**Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity** \
+*Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, Pontus Stenetorp* \
+ACL 2022. [[Paper](https://arxiv.org/abs/2104.08786)] 
+3 Mar 2022
 
 **Learning To Retrieve Prompts for In-Context Learning** \
 *Ohad Rubin, Jonathan Herzig, Jonathan Berant* \
