@@ -20,6 +20,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
   - [LLM Optimization](#llm-optimization)
   - [Fine-tune Methods](#fine-tune-methods)
   - [Programming](#programming)
+  - [Human Perference and Feedback](#human-perference-and-feedback)
   - [Ensemble Methods](#ensemble-methods)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Gradient-free Methods](#gradient-free-methods)
@@ -92,6 +93,13 @@ EMNLP 2023. [[Paper](https://arxiv.org/abs/2310.13385)][[Github](https://github.
 arXiv 2023. [[Paper](https://arxiv.org/abs/2310.03714)][[Github](https://github.com/stanfordnlp/dspy)] \
 Oct 2023 
 
+
+## Human Perference and Feedback
+
+**Eliciting Human Preferences with Language Models** \
+*Belinda Z. Li, Alex Tamkin, Noah Goodman, Jacob Andreas* \
+arXiv 2023. [[Paper](https://arxiv.org/abs//2310.11589)][[Github](https://github.com/alextamkin/generative-elicitation)] \
+17 Oct 2023 
 
 ## Ensemble Methods
 
