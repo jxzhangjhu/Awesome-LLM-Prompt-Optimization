@@ -33,22 +33,22 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 **PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization** \
 *Xinyuan Wang, Chenxi Li, Zhen Wang, Fan Bai, Haotian Luo, Jiayou Zhang, Nebojsa Jojic, Eric P. Xing, Zhiting Hu* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2310.16427)]
+arXiv 2023. [[Paper](https://arxiv.org/abs/2310.16427)] \
 25 Oct 2023 
 
 **Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation** \
 *Eric Zelikman, Eliana Lorch, Lester Mackey, Adam Tauman Kalai* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2310.02304)] 
+arXiv 2023. [[Paper](https://arxiv.org/abs/2310.02304)] \
 3 Oct 2023 
 
 **Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution** \ 
 *Chrisantha Fernando, Dylan Banarse, Henryk Michalewski, Simon Osindero, Tim Rocktäschel* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2309.16797)]
+arXiv 2023. [[Paper](https://arxiv.org/abs/2309.16797)] \
 28 Sep 2023 
 
 **Connecting large language models with evolutionary algorithms yields powerful prompt optimizers** \
 *Qingyan Guo, Rui Wang, Junliang Guo, Bei Li, Kaitao Song, Xu Tan, Guoqing Liu, Jiang Bian, Yujiu Yang* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2309.08532)]
+arXiv 2023. [[Paper](https://arxiv.org/abs/2309.08532)] \
 15 Sep 2023 
 
 **Large Language Models as Optimizers (OPRO)** \
@@ -57,33 +57,33 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2309.03409)] \
 7 Sep 2023 
 
 
+**Automatic Prompt Optimization with "Gradient Descent" and Beam Search (APO)** \
+*Reid Pryzant, Dan Iter, Jerry Li, Yin Tat Lee, Chenguang Zhu, Michael Zeng* \
+EMNLP 2023. [[Paper](https://arxiv.org/abs/2305.03495)][[Github](https://github.com/microsoft/lmops)] \
+4 May 2023 
+
 **Large Language Models Are Human-Level Prompt Engineers (APE)** \
 *Yongchao Zhou, Andrei Ioan Muresanu, Ziwen Han, Keiran Paster, Silviu Pitis, Harris Chan, Jimmy Ba* \
 ICLR 2023. [[Paper](https://arxiv.org/abs/2211.01910)][[Github](https://github.com/keirp/automatic_prompt_engineer)] \
 3 Nov 2022 
 
-**Automatic Prompt Optimization with "Gradient Descent" and Beam Search (APO)** \
-*Reid Pryzant, Dan Iter, Jerry Li, Yin Tat Lee, Chenguang Zhu, Michael Zeng* \
-EMNLP 2023. [[Paper](https://arxiv.org/abs/2305.03495)][[Github](https://github.com/microsoft/lmops)]
-
-
 **Mixture-of-Experts in Prompt Optimization** \
 *Anonymous authors*
-ICLR 2024 submission. [[Paper](https://openreview.net/pdf?id=sDmjlpphdB)]
-
+ICLR 2024 submission. [[Paper](https://openreview.net/pdf?id=sDmjlpphdB)] \
+Oct 2024 
 
 **Prompt Engineering a Prompt Engineer** \
 *Anonymous authors*
-ICLR 2024 submission. [[Paper](https://openreview.net/forum?id=eojWsJQ2fe)]
-
+ICLR 2024 submission. [[Paper](https://openreview.net/forum?id=eojWsJQ2fe)] \
+Oct 2024 
 
 
 ## Fine-tuning Methods
 
 **Tuna: Instruction Tuning using Feedback from Large Language Models** \
 *Haoran Li, Yiran Liu, Xingxing Zhang, Wei Lu, Furu Wei* \
-EMNLP 2023. [[Paper](https://arxiv.org/abs/2310.13385)][[Github](https://github.com/microsoft/lmops)]
-
+EMNLP 2023. [[Paper](https://arxiv.org/abs/2310.13385)][[Github](https://github.com/microsoft/lmops)] \
+20 Oct 2023 
 
 ## Programming 
 
@@ -146,7 +146,7 @@ TMLR 2023. [[Paper](https://arxiv.org/abs/2201.08531)][[Github](https://github.c
 
 **FedBPT: Efficient Federated Black-box Prompt Tuning for Large Language Models** \
 *Jingwei Sun, Ziyue Xu, Hongxu Yin, Dong Yang, Daguang Xu, Yiran Chen, Holger R. Roth* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2310.01467v1)]
+arXiv 2023. [[Paper](https://arxiv.org/abs/2310.01467v1)] \
 2 Oct 2023 
 
 **Language Models as Black-Box Optimizers for Vision-Language Models** \
@@ -172,7 +172,7 @@ Mar 14 2022
 
 **Black-Box Tuning for Language-Model-as-a-Service** \
 *Tianxiang Sun, Yunfan Shao, Hong Qian, Xuanjing Huang, Xipeng Qiu* \
-ICML 2022. [[Paper](https://arxiv.org/abs/2201.03514)][[Github](https://github.com/txsun1997/Black-Box-Tuning)]\
+ICML 2022. [[Paper](https://arxiv.org/abs/2201.03514)][[Github](https://github.com/txsun1997/Black-Box-Tuning)] \
 10 Jan 2022 
 
 **BBTv2: towards a gradient-free future with large language models** \
@@ -185,12 +185,12 @@ EMNLP 2022. [[Paper](https://aclanthology.org/2022.emnlp-main.259/)] [[Github](h
 
 **Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data** \
 *KaShun Shum, Shizhe Diao, Tong Zhang*\
-arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12822)][[Github](https://github.com/shizhediao/automate-cot)]\
+arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12822)][[Github](https://github.com/shizhediao/automate-cot)] \
 24 Feb 2023 
 
 **Automatic Chain of Thought Prompting in Large Language Models** \
 *Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola*\
-ICLR 2023. [[Paper](https://arxiv.org/abs/2210.03493)][[Github](https://github.com/amazon-science/auto-cot)]\
+ICLR 2023. [[Paper](https://arxiv.org/abs/2210.03493)][[Github](https://github.com/amazon-science/auto-cot)] \
 7 Oct 2022
 
 **Active Example Selection for In-Context Learning** \
@@ -200,12 +200,12 @@ EMNLP 2022. [[Paper](https://arxiv.org/abs/2211.04486)][[Github](https://github.
 
 **Selective Annotation Makes Language Models Better Few-Shot Learners** \
 *Hongjin Su, Jungo Kasai, Chen Henry Wu, Weijia Shi, Tianlu Wang, Jiayi Xin, Rui Zhang, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu* \
-ICLR 2023. [[Paper](https://arxiv.org/abs/2209.01975)][[Github](https://github.com/HKUNLP/icl-selective-annotation)]\
+ICLR 2023. [[Paper](https://arxiv.org/abs/2209.01975)][[Github](https://github.com/HKUNLP/icl-selective-annotation)] \
 5 Sep 2022 
 
 **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity** \
 *Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, Pontus Stenetorp* \
-ACL 2022. [[Paper](https://arxiv.org/abs/2104.08786)] 
+ACL 2022. [[Paper](https://arxiv.org/abs/2104.08786)] \
 3 Mar 2022
 
 **Learning To Retrieve Prompts for In-Context Learning** \
