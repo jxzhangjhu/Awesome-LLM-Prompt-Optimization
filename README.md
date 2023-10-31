@@ -4,10 +4,10 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
-(https://camo.githubusercontent.com/eafac29b763e18c4d80c680d6a179f348cfa2afbc8d3a45642df19fd580d2404/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d57656c636f6d652d726564)
 
 
-This repo aims to record advanced methods of prompt tuning, evolution, optimization in LLMs. 
+
+This repo aims to record advanced papers of LLM prompt tuning and automatic optimization. 
 
 We strongly encourage the researchers that want to promote their fantastic work to the LLM survey community to make pull request to update their paper's information!
 
