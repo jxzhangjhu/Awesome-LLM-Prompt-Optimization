@@ -9,7 +9,7 @@
 
 This repo aims to record advanced papers of LLM prompt tuning and automatic optimization (after 2022).
 
-We strongly encourage the researchers that want to promote their fantastic work to the LLM survey community to make pull request to update their paper's information!
+We strongly encourage the researchers that want to promote their fantastic work to the LLM prompt optimization to make pull request to update their paper's information!
 
 
 --- 
