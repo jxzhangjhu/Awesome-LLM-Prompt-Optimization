@@ -10,6 +10,7 @@
 - [Papers](#papers)
   - [LLM Optimization](#llm-optimization)
   - [Fine-tune Methods](#fine-tune-methods)
+  - [Programming](#programming)
   - [Ensemble Methods](#ensemble-methods)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Gradient-free Methods](#gradient-free-methods)
@@ -22,6 +23,10 @@
 arXiv 2023. [[Paper](https://arxiv.org/abs/2310.16427)]
 25 Oct 2023 
 
+**Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation** \
+*Eric Zelikman, Eliana Lorch, Lester Mackey, Adam Tauman Kalai* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2310.02304)] 
+3 Oct 2023 
 
 **Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution** \ 
 *Chrisantha Fernando, Dylan Banarse, Henryk Michalewski, Simon Osindero, Tim Rocktäschel* \
@@ -33,7 +38,7 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2309.16797)]
 arXiv 2023. [[Paper](https://arxiv.org/abs/2309.08532)]
 15 Sep 2023 
 
-**Large Language Models as Optimizers** \
+**Large Language Models as Optimizers (OPRO)** \
 *Chengrun Yang, Xuezhi Wang, Yifeng Lu, Hanxiao Liu, Quoc V. Le, Denny Zhou, Xinyun Chen* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2309.03409)] \
 7 Sep 2023 
@@ -49,6 +54,17 @@ ICLR 2023. [[Paper](https://arxiv.org/abs/2211.01910)][[Github](https://github.c
 EMNLP 2023. [[Paper](https://arxiv.org/abs/2305.03495)][[Github](https://github.com/microsoft/lmops)]
 
 
+**Mixture-of-Experts in Prompt Optimization** \
+*Anonymous authors*
+ICLR 2024 submission. [[Paper](https://openreview.net/pdf?id=sDmjlpphdB)]
+
+
+**Prompt Engineering a Prompt Engineer** \
+*Anonymous authors*
+ICLR 2024 submission. [[Paper](https://openreview.net/forum?id=eojWsJQ2fe)]
+
+
+
 ## Fine-tuning Methods
 
 **Tuna: Instruction Tuning using Feedback from Large Language Models** \
@@ -56,8 +72,12 @@ EMNLP 2023. [[Paper](https://arxiv.org/abs/2305.03495)][[Github](https://github.
 EMNLP 2023. [[Paper](https://arxiv.org/abs/2310.13385)][[Github](https://github.com/microsoft/lmops)]
 
 
+## Programming 
 
-
+**DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines** \
+*Omar Khattab, Arnav Singhvi, Paridhi Maheshwari, Zhiyuan Zhang, Keshav Santhanam, Sri Vardhamanan, Saiful Haq, Ashutosh Sharma, Thomas T. Joshi, Hanna Moazam, Heather Miller, Matei Zaharia, Christopher Potts* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2310.03714)][[Github](https://github.com/stanfordnlp/dspy)] \
+Oct 2023 
 
 
 ## Ensemble Methods
@@ -91,11 +111,26 @@ EMNLP 2022. [[Paper](https://arxiv.org/abs/2205.12548)][[Github](https://github.
 
 ## Gradient-free Methods 
 
+**FedBPT: Efficient Federated Black-box Prompt Tuning for Large Language Models** \
+*Jingwei Sun, Ziyue Xu, Hongxu Yin, Dong Yang, Daguang Xu, Yiran Chen, Holger R. Roth* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2310.01467v1)]
+2 Oct 2023 
+
+**Language Models as Black-Box Optimizers for Vision-Language Models** \
+*Shihong Liu, Samuel Yu, Zhiqiu Lin, Deepak Pathak, Deva Ramanan* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2309.05950)][[Github](https://github.com/shihongl1998/llm-as-a-blackbox-optimizer)] \
+12 Sep 2023 
 
 **InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models** \
 *Lichang Chen, Jiuhai Chen, Tom Goldstein, Heng Huang, Tianyi Zhou* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2306.03082)] [[Github](https://github.com/lichang-chen/instructzero)] \
 5 Jun 2023 
+
+**BlackVIP: Black-Box Visual Prompting for Robust Transfer Learning** \
+*Changdae Oh, Hyeji Hwang, Hee-young Lee, YongTaek Lim, Geunyoung Jung, Jiyoung Jung, Hosik Choi, Kyungwoo Song* \
+CVPR 2023. [[Paper](https://arxiv.org/abs/2303.14773)][[Github](https://github.com/changdaeoh/blackvip)] \
+26 Mar 2023 
+
 
 **GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models** \
 *Archiki Prasad, Peter Hase, Xiang Zhou, Mohit Bansal* \
