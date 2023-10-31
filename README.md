@@ -5,6 +5,14 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
+
+This repo aims to record advanced methods of prompt tuning, evolution, optimization in LLMs. 
+
+We strongly encourage the researchers that want to promote their fantastic work to the LLM survey community to make pull request to update their paper's information!
+
+
+--- 
+
 ## Contents
 
 - [Papers](#papers)
@@ -15,6 +23,8 @@
   - [Reinforcement Learning](#reinforcement-learning)
   - [Gradient-free Methods](#gradient-free-methods)
 
+
+--- 
 
 ## LLM Optimization
 
@@ -91,22 +101,42 @@ ICML 2023. [[Paper](https://proceedings.mlr.press/v202/hou23b.html)][[Github](ht
 
 ## Reinforcement Learning
 
+
+
+
+**Eureka: Human-Level Reward Design via Coding Large Language Models** \
+*Yecheng Jason Ma, William Liang, Guanzhi Wang, De-An Huang, Osbert Bastani, Dinesh Jayaraman, Yuke Zhu, Linxi Fan, Anima Anandkumar* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2310.12931)][[Github](https://github.com/eureka-research/Eureka)] \
+19 Oct 2023
+
+
 **Query-Dependent Prompt Evaluation and Optimization with Offline Inverse RL** \
 *Hao Sun, Alihan Hüyük, Mihaela van der Schaar* \
-ArXiv 2023. [[Paper](https://arxiv.org/abs/2309.06553)][[Github](https://github.com/holarissun/Prompt-OIRL)] \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2309.06553)][[Github](https://github.com/holarissun/Prompt-OIRL)] \
 13 Sep 2023 
 
 
-**Black-box Prompt Learning for Pre-trained Language Models** \
-*Shizhe Diao, Zhichao Huang, Ruijia Xu, Xuechun Li, Yong Lin, Xiao Zhou, Tong Zhang* \
-TMLR 2023. [[Paper](https://arxiv.org/abs/2201.08531)][[Github](https://github.com/shizhediao/Black-Box-Prompt-Learning)] \
-22 Jan 2022 
+**Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization** \
+*Weiran Yao, Shelby Heinecke, Juan Carlos Niebles, Zhiwei Liu, Yihao Feng, Le Xue, Rithesh Murthy, Zeyuan Chen, Jianguo Zhang, Devansh Arpit, Ran Xu, Phil Mui, Huan Wang, Caiming Xiong, Silvio Savarese* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2308.02151)] \
+4 Aug 2023 
+
+**TEMPERA: Test-Time Prompting via Reinforcement Learning** \
+*Tianjun Zhang, Xuezhi Wang, Denny Zhou, Dale Schuurmans, Joseph E. Gonzalez* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2211.11890)][[Github](https://github.com/tianjunz/tempera)] \
+21 Nov 2022
 
 
 **RLPrompt: Optimizing Discrete Text Prompts with Reinforcement Learning** \
 *Mingkai Deng, Jianyu Wang, Cheng-Ping Hsieh, Yihan Wang, Han Guo, Tianmin Shu, Meng Song, Eric P. Xing, Zhiting Hu* \
 EMNLP 2022. [[Paper](https://arxiv.org/abs/2205.12548)][[Github](https://github.com/mingkaid/rl-prompt)] \
 25 May 2022 
+
+**Black-box Prompt Learning for Pre-trained Language Models** \
+*Shizhe Diao, Zhichao Huang, Ruijia Xu, Xuechun Li, Yong Lin, Xiao Zhou, Tong Zhang* \
+TMLR 2023. [[Paper](https://arxiv.org/abs/2201.08531)][[Github](https://github.com/shizhediao/Black-Box-Prompt-Learning)] \
+22 Jan 2022 
+
 
 
 ## Gradient-free Methods 
