@@ -25,12 +25,28 @@ We strongly encourage the researchers that want to promote their fantastic work 
   - [Reinforcement Learning](#reinforcement-learning)
   - [Gradient-free Methods](#gradient-free-methods)
   - [In-Context Learning](#in-context-learning)
+  - [Bayesian Optimization](#bayesian-optimization)
 
 
 
 --- 
 
 ## LLM Optimization
+
+**Language Model Decoding as Direct Metrics Optimization** \
+*Haozhe Ji, Pei Ke, Hongning Wang, Minlie Huang* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2310.01041)] \
+2 Oct 2023 
+ 
+**Large Language Models as Evolutionary Optimizers** \
+*Shengcai Liu, Caishun Chen, Xinghua Qu, Ke Tang, Yew-Soon Ong* \
+arXiv 2023 [[Paper](https://arxiv.org/abs/2310.19046)] \
+29 Oct 2023 
+
+**OptiMUS: Optimization Modeling Using MIP Solvers and large language models** \
+*Ali AhmadiTeshnizi, Wenzhi Gao, Madeleine Udell* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2310.06116)] [[Github](https://arxiv.org/abs/2310.06116)] \
+9 Oct 2023 
 
 **PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization** \
 *Xinyuan Wang, Chenxi Li, Zhen Wang, Fan Bai, Haotian Luo, Jiayou Zhang, Nebojsa Jojic, Eric P. Xing, Zhiting Hu* \
@@ -154,6 +170,12 @@ TMLR 2023. [[Paper](https://arxiv.org/abs/2201.08531)][[Github](https://github.c
 
 ## Gradient-free Methods 
 
+**PROPANE: Prompt design as an inverse problem** \
+*Rimon Melamed, Lucas H. McCabe, Tanay Wakhare, Yejin Kim, H. Howie Huang, Enric Boix-Adsera* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2311.07064v1)] [[Github](https://github.com/rimon15/propane)] \
+13 Nov 2023 
+
+
 **FedBPT: Efficient Federated Black-box Prompt Tuning for Large Language Models** \
 *Jingwei Sun, Ziyue Xu, Hongxu Yin, Dong Yang, Daguang Xu, Yiran Chen, Holger R. Roth* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2310.01467v1)] \
@@ -223,3 +245,14 @@ ACL 2022. [[Paper](https://arxiv.org/abs/2104.08786)] \
 NAACL-HLT 2022. [[Paper](https://arxiv.org/abs/2112.08633)][[Github](https://github.com/OhadRubin/EPR)] \
 16 Dec 2021
 
+## Bayesian Optimization
+
+**Large Language Models to Enhance Bayesian Optimization** \
+ICLR 2024 Conference Submission8133 Authors. [[Paper](https://openreview.net/forum?id=OOxotBmGol)] \
+23 Sep 2023 
+
+
+**Bayesian Optimization of Catalysts With In-context Learning** \
+*Mayk Caldas Ramos, Shane S. Michtavy, Marc D. Porosoff, Andrew D. White* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2304.05341)] [[Github](https://github.com/ur-whitelab/bo-lift)] \
+11 Apr 2023 
