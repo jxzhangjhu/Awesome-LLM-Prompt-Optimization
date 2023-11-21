@@ -33,6 +33,11 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ## LLM Optimization
 
+**Black-Box Prompt Optimization: Aligning Large Language Models without Model Training** \
+*Jiale Cheng, Xiao Liu, Kehan Zheng, Pei Ke, Hongning Wang, Yuxiao Dong, Jie Tang, Minlie Huang* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2311.04155)] [[Github](https://github.com/thu-coai/bpo)] \
+7 Nov 2023 
+
 **Language Model Decoding as Direct Metrics Optimization** \
 *Haozhe Ji, Pei Ke, Hongning Wang, Minlie Huang* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2310.01041)] \
