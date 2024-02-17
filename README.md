@@ -180,6 +180,10 @@ TMLR 2023. [[Paper](https://arxiv.org/abs/2201.08531)][[Github](https://github.c
 arXiv 2023. [[Paper](https://arxiv.org/abs/2311.07064v1)] [[Github](https://github.com/rimon15/propane)] \
 13 Nov 2023 
 
+**Survival of the Most Influential Prompts: Efficient Black-Box Prompt Search via Clustering and Pruning** \
+*Han Zhou, Xingchen Wan, Ivan Vulić, Anna Korhonen* \
+EMNLP 2023. [[Paper](https://arxiv.org/abs/2310.12774)] \
+19 Oct 2023 
 
 **FedBPT: Efficient Federated Black-box Prompt Tuning for Large Language Models** \
 *Jingwei Sun, Ziyue Xu, Hongxu Yin, Dong Yang, Daguang Xu, Yiran Chen, Holger R. Roth* \
