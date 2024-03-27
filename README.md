@@ -89,6 +89,16 @@ EMNLP 2023. [[Paper](https://arxiv.org/abs/2305.03495)][[Github](https://github.
 ICLR 2023. [[Paper](https://arxiv.org/abs/2211.01910)][[Github](https://github.com/keirp/automatic_prompt_engineer)] \
 3 Nov 2022 
 
+**Automatic Engineering of Long Prompts** \
+*Cho-Jui Hsieh, Si Si, Felix X. Yu, Inderjit S. Dhillon*\
+arXiv 2023. [[Paper](https://arxiv.org/abs/2311.10117)] \
+16 Nov 2023
+
+**Prompt Optimisation with Random Sampling** \
+*Yao Lu, Jiayi Wang, Sebastian Riedel, Pontus Stenetorp*\
+arXiv 2023. [[Paper](https://arxiv.org/abs/2311.09569)][[Github](https://github.com/yaolu/random-prompt)]  \
+16 Nov 2023
+
 **Mixture-of-Experts in Prompt Optimization** \
 *Anonymous authors*
 ICLR 2024 submission. [[Paper](https://openreview.net/pdf?id=sDmjlpphdB)] \
@@ -129,9 +139,12 @@ arXiv 2023. [[Paper](https://arxiv.org/abs//2310.11589)][[Github](https://github
 **Promptboosting: Black-box text classification with ten forward passes** \
 *Bairu Hou, Joe O’Connor, Jacob Andreas, Shiyu Chang, Yang Zhang* \
 ICML 2023. [[Paper](https://proceedings.mlr.press/v202/hou23b.html)][[Github](https://github.com/UCSB-NLP-Chang/PromptBoosting)] \
-23 Jan 2023 
+23 Jan 2023
 
-
+**Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine** \
+*Harsha Nori, Yin Tat Lee, Sheng Zhang, Dean Carignan, Richard Edgar, Nicolo Fusi, Nicholas King, Jonathan Larson, Yuanzhi Li, Weishung Liu, Renqian Luo, Scott Mayer McKinney, Robert Osazuwa Ness, Hoifung Poon, Tao Qin, Naoto Usuyama, Chris White, Eric Horvitz* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2311.16452)] \
+28 Nov 2023
 
 ## Reinforcement Learning
 
