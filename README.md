@@ -36,6 +36,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - [FutureAGI agent-opt](https://github.com/future-agi/agent-opt)
 [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - [FutureAGI future-agi](https://github.com/future-agi/future-agi) - Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evals, simulations, datasets, gateway, and guardrails for LLM and AI agent applications.
+- [Skill training starter (SkillOpt-style)](https://github.com/proskillpacks/skillopt-agent-browse) - Small loop that trains an agent skill and keeps an edit only if the held-out score rises; includes 18 toy tasks and a worked run.
 - [Weco — eval-driven optimization with LangSmith/Langfuse](https://weco.ai/blog/weco-langsmith-integration) - Runs autoresearch code/prompt optimization directly against your existing LangSmith and Langfuse datasets and evaluators.
 
 **Black-Box Prompt Optimization: Aligning Large Language Models without Model Training** \
