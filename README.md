@@ -33,6 +33,11 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ## LLM Optimization
 
+**From a Prompt to Repertoires: Evolving Functional REpertoires Enable LLM Continual Learning** \
+*Fengyuan Liu, Yue Wang, Hangxi Guo, Fengyuan Liu, Chenxu Wu, Yanguang Liu, Mengnan Du* \
+arXiv 2026. [[Paper](https://arxiv.org/abs/2610.11373)] \
+8 Oct 2026
+
 - [FutureAGI agent-opt](https://github.com/future-agi/agent-opt)
 [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - [FutureAGI future-agi](https://github.com/future-agi/future-agi) - Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evals, simulations, datasets, gateway, and guardrails for LLM and AI agent applications.
